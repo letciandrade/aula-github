@@ -3,7 +3,7 @@ programa
     inclua biblioteca Matematica --> mat
     
 
-	real num1, num2, num3, media
+	real num1, num2, num3, media
 	
 	funcao inicio()
 	{
